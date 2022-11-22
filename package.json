@@ -1,0 +1,25 @@
+{
+  "name": "holamundo",
+  "version": "1.0.0",
+  "description": "Hola mundo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReynaGalaviz/todocomputacion.git"
+  },
+  "keywords": [
+    "2001"
+  ],
+  "author": "Reyna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReynaGalaviz/todocomputacion/issues"
+  },
+  "homepage": "https://github.com/ReynaGalaviz/todocomputacion#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
